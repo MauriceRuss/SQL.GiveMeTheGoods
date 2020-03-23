@@ -1,1 +1,1 @@
-select * from students where city like '_a%';
+select * from students where REGEXP_LIKE(City,'_a%');
