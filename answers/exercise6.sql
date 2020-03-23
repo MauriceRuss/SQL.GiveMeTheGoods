@@ -1,1 +1,1 @@
-select * from Students WHERE city NOT IN ("Kutapanjang", "Baghdad");
+select * from Students WHERE city NOT IN ("Sint Maarten", "Haiti");
